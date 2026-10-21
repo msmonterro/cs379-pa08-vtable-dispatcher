@@ -1,0 +1,9 @@
+PA08 - Instrucciones
+
+1. Revisa PA8_Theory.md y dispatcher.py para entender las respuestas.
+2. En Terminal, entra a esta carpeta y ejecuta:
+   python3 test_dispatcher.py
+3. Debe aparecer VTABLE_DISPATCH_VERIFIED. Se incluye la salida real en verification_output.txt.
+4. Entrega PA8_Theory.md, dispatcher.py y la salida de Terminal, segun Blackboard. test_dispatcher.py es el archivo original del profesor y se incluye para ejecutar las pruebas.
+5. En GitHub, abre https://github.com/cwillpinto/cs379-pa08-vtable-dispatcher y selecciona Use this template > Create a new repository bajo tu cuenta. No subas cambios al repositorio del profesor.
+6. El README del profesor tambien pide pegar tus archivos propios de etapas anteriores: lexer.py, parser.py, symtable.py, frames.py y parameters.py. Esos archivos tuyos no estan incluidos en este paquete. Conserva tus versiones de PA6/PA7 al integrar dispatcher.py. La prueba oficial de PA08 usa objetos compatibles con Closure.call y no requiere esos archivos para ejecutarse.
